@@ -2,8 +2,8 @@
 
 Current Masters student in Electronics Engineering pursuing my degree in France.
 
-- 🔭 I’m currently working on RISC-V processor from RTL to GDSII using open source softwares and licensing.
-- 🌱 I’m currently learning Micro-Nano Electronics and transistors technologies
+- 🔭 I’m currently working on a RISC-V processor, from RTL to GDSII, using open source softwares and licensing.
+- 🌱 I’m currently learning micro-nano electronics and transistors technologies.
 
 <!--
 **HedleyH/HedleyH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
